@@ -1,7 +1,7 @@
 import pygame
 import random
 pygame.init()
-pygame.display.set_caption('Farty BLord')
+pygame.display.set_caption('flappy bird')
 
 DISPLAY = pygame.display.set_mode((500, 500))
 #gravity vars
